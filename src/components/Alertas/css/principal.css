@@ -1,0 +1,24 @@
+.principal-row{
+    display: grid;
+    align-items: center;
+    background-color: white;
+    height: 400px;
+    background-image: url("../../../images/alert.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 55% 20%;
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.principal-row .row .alerta{
+    text-align: center;
+    color: aliceblue;
+    background:rgb(175, 6, 6);
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+}

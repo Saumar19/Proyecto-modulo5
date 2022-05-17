@@ -1,0 +1,9 @@
+.container img{
+    width: 100%;
+    height: auto;
+}
+
+.container{
+    margin: 50px;
+    justify-items: center;
+}
